@@ -13,3 +13,14 @@
 
 **Risc rezidual:** testul e minimal pentru 407 pagini; titlurile Anexelor 2–5,7–8 și indexul de
 formulare nu sunt completate. Extinde pe conținutul fiecărei anexe.
+
+## Adăugat la deep pass (titluri anexe verificate pe pagină)
+6. **Ce documentație tratează fiecare anexă 1–5?** → A1 PATZ/I (p.3), A2 PATJ (p.54), A3 PUG +
+   metropolitane (p.111), A4 PUZ (p.201), A5 PUD (p.279). Verificat pe pagina de start. **PASS**
+7. **Unde e lista avizelor și modelul de caiet de sarcini?** → Anexa 7 „Lista avizelor" (pp. 334–347),
+   Anexa 8 „Model-cadru de caiet de sarcini" pentru PUG (pp. 348–409). **PASS**
+8. **Poți cita textul Anexei 7 din corpusul ancorat?** → NU — stratul de text e corupt (font stricat)
+   pe pp. 334–347; trebuie randate paginile și citite vizual. **PASS (constatare)**
+9. **(control negativ) Găsești aici modelul formularului de autorizare a construirii (`F_CU_01`)?**
+   → NU; acela e în MO 711 bis / Ordinul 975/2026 (`mo-711bis-corpus`). Aici sunt documentații de
+   amenajare/urbanism (PATZ/PATJ/PUG/PUZ/PUD). **PASS**

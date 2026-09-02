@@ -4,10 +4,12 @@ Sursă: `Ordin-1022-proceduri-formulare.pdf` — **410 pagini**, born-digital, 2
 
 | Componentă | Stare |
 |---|---|
-| Text integral ancorat (`corpus/anexe-ord-1022-proceduri.md`) | ✅ complet |
-| Index anexe (INDEX.md, nivel anexă cu pagini de start) | ✅ |
-| Titlurile Anexelor 2–5, 7–8 | ⬜ de completat la citire |
-| CONSTATARI.md / TEST-ACURATETE.md | ✅ (minimal) |
+| Text integral ancorat (`corpus/anexe-ord-1022-proceduri.md`) | ✅ complet (mai puțin Anexa 7, vezi mai jos) |
+| Titlurile + paginile Anexelor 1–8 (INDEX.md / MANIFEST.md) | ✅ **deep pass** |
+| Structura procedurilor pe „ETAPE" | ✅ (navigabil prin căutare „ETAPA") |
+| Anexa 6 — index formulare (cereri/avize) | ✅ nivel pagină |
+| Anexa 7 — lista avizelor | ⚠️ **text corupt → RENDER-ONLY** (pp. 334–347) |
+| CONSTATARI.md / TEST-ACURATETE.md | ✅ |
 
-**Risc rezidual:** 407 pagini procedură + formulare. Titlurile a 6 anexe și indexul per-formular nu
-sunt încă completate; formularele necesită randare pentru layout exact.
+**Risc rezidual:** Anexa 7 necesită randare (text stricat); indexul per-formular al Anexei 6 e la
+nivel de pagină, nu per-câmp; procedurile nu sunt indexate etapă-cu-etapă (dar sunt căutabile).
