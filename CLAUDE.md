@@ -2,7 +2,7 @@
 
 Depozit pentru a răspunde la întrebări despre acest document oficial cu marjă minimă de
 eroare. **Metoda e identică cu proiectul P118 `denisa`** — citește:
-`../denisa/PROCEDURA-DOCUMENT-NOU.md`, `../denisa/PROCEDURA.md` (cei 7 pași),
+`../PROCEDURA-DOCUMENT-NOU.md`, `../denisa/PROCEDURA.md` (cei 7 pași),
 `../denisa/CONSTATARI.md` (capcane), `../denisa/ralph/README.md` (bucla de tabele).
 
 ## Sursa
